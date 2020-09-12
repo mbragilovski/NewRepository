@@ -7,7 +7,7 @@
 **Lorem** *Ipsum*
 
 **_followTheLink:_**  l[Lorem Ipsum](https://google.com)
-**_followTheLink:_**  l[Lorem Ipsum]
+
 
 two item
   
