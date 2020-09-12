@@ -1,6 +1,4 @@
-# NewRepository
-
-> A study about a Fintech domain
+## NewRepository
 
 ## Another HEading 
 
@@ -27,5 +25,4 @@ print("Nice to meet you")
 ``Help``
 
 ![Getting Started](AIBanner.jpg)
-
 
