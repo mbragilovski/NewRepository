@@ -6,7 +6,7 @@
 
 **Lorem** *Ipsum*
 
-**_followTheLink:_**  l[Lorem Ipsum](https://google.com)
+**_followTheLink:_**  [Lorem Ipsum](https://google.com)
 
 
 two item
@@ -20,7 +20,7 @@ two item
 print("Nice to meet you")
 ```
 
-`Fintech`
+`Fintech is cool`
 
 ``Help``
 
