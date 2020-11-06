@@ -22,7 +22,7 @@ print("Nice to meet you")
 
 `Fintech is cool!!!`
 
-``Help!!``
+``Help Please !!``
 
 ![Getting Started](AIBanner.jpg)
 
